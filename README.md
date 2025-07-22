@@ -1,3 +1,5 @@
+[简体中文](README_zh-CN.md)
+
 # Face Swap - High-Fidelity Face Swapping Tool Enhanced with GFPGAN
 
 This is an open-source face swapping project based on `roop`. It utilizes the `inswapper_128.onnx` model for core face swapping operations and integrates the powerful `GFPGANv1.4` model to enhance the details and clarity of the generated faces.
