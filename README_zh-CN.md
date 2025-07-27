@@ -145,6 +145,9 @@ cog predict \
 
 ## 性能对比：Face Swap vs. Face Swap Pro
 
+<img width="1600" height="900" alt="face swap api" src="https://github.com/user-attachments/assets/070c0774-c8ea-4230-b56a-529be7c7a7a1" />
+
+
 为了帮助用户做出正确的选择，我们将此开源项目与我们的另一款商业级模型 `Face Swap Pro` 进行对比。
 
 | 特性       | Face Swap (本项目)         | Face Swap Pro (商业版)                                               |
