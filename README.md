@@ -139,6 +139,8 @@ Deploying your model to Replicate is straightforward and gives you a public API 
 
 ## Performance Comparison: Face Swap vs. Face Swap Pro
 
+<img width="1600" height="900" alt="face swap api" src="https://github.com/user-attachments/assets/9a42940c-dc44-4609-82d3-68ab3e6dc461" />
+
 To help users make an informed choice, we are comparing this open-source project with our other commercial-grade model, `Face Swap Pro`.
 
 | Feature           | Face Swap (This Project)      | Face Swap Pro (Commercial)                                           |
